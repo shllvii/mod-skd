@@ -1,0 +1,7 @@
+.vscode
+logs/
+models/
+build/
+*log
+*back
+input.json
