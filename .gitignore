@@ -1,7 +1,11 @@
 .vscode
-logs/
-models/
-build/
+logs
+models
+build
 *log
 *back
-input.json
+result*
+*.json
+!/json
+json/random
+production
